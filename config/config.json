@@ -1,0 +1,7 @@
+{
+	"domain":"https://www.guardicore.com/",
+	"output":"output.txt",
+	"log":1,
+	"num_workers":500,
+	"max_queue_size":15000
+}
